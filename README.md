@@ -97,8 +97,6 @@ It centers on the most dramatic empirical contrast ever recorded in an Indian co
 
 ---
 
-### 5. Links & Submission Details
-- **Live Interactive System**: [index.html](file:///c:/Users/harph/Desktop/zindi/index.html)
-- **Submission Form**: [Google Forms Submission Link](https://forms.gle/9PKPsn6QTvdTGath7)
-- **Submission Category**: Most Creative Submission Award ($500)
-- **Deadline**: 13 November 18:29 GMT (23:59:59 IST)
+### 5. Project Links & Open-Source Access
+- **Live Web Application**: https://harphool-singh.github.io/aerolens-mumbai/
+- **GitHub Repository**: https://github.com/harphool-singh/aerolens-mumbai
